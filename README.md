@@ -1,6 +1,7 @@
 # CustomButton
 ### 注意：xib,storyboard调用不规则圆角按钮时需要在viewDidLayoutSubviews中调用
-### 效果图
+### 效果图:
+![](/CustomButton/image.jpg)
 ### 调用方法：
 ```
 倒计时按钮1：
