@@ -5,7 +5,7 @@
 #### 为UIButton增加一个扩展类，不用继承即可调用，实现调整按钮图片位置，按钮倒计时，不规格圆角按钮等功能；
 ## 使用
 #### 注意xib,storyboard创建按钮在调用不规则圆角按钮方法时需要在viewDidLayoutSubviews方法中调用，demo中有案例； 
-#### 创建按钮控价，调用UIButton+Category.h相应方法即可实现相应功能，如下：
+#### 创建按钮控件，调用UIButton+Category.h相应方法即可实现相应功能，如下：
 ```
 倒计时按钮1：
 [sender startCountDownWithSeconds:10];
